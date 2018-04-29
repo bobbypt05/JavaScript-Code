@@ -1,2 +1,2 @@
 # JavaScript-Code
-Practice Code of JavaScript Language.
+Practice Codes of JavaScript Language.
